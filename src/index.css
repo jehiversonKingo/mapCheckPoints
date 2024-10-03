@@ -1,0 +1,18 @@
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.font-monospace {
+  font-family: monospace;
+}
+
+.popup {
+  border-radius: 4px;
+  z-index: 1;
+}
